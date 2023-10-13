@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\bin\Debug\l1TAuFR.exe.config
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\bin\Debug\l1TAuFR.exe
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\bin\Debug\l1TAuFR.pdb
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.exe
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.pdb
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\l1TAuFR\l1TAuFR\obj\Debug\l1TAuFR.Form1.resources
